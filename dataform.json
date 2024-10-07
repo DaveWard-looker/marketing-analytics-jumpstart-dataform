@@ -10,7 +10,7 @@
     "ga4_export_dataset": "analytics_447870213",
     "ga4_export_table_suffix": "_*",
     "ga4_incremental_processing_days_back": "3",
-    "ads_export_data": "[{\"project\": \"PROJECT_ID\",\"dataset\": \"DATASET_NAME\", \"table_suffix\": \"_123456\"},{\"project\": \"PROJECT_ID\",\"dataset\": \"DATASET_NAME\",\"table_suffix\": \"_34567890\"}]",
+    "ads_export_data": "[{\"project\": \"dward-maj-testing\",\"dataset\": \"dw_ads_test\", \"table_suffix\": \"_4717384083\"}]",
   "ads_metrics_lookback_days": "365"
   }
 } 
